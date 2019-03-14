@@ -1,0 +1,17 @@
+D:\MyDemo\MyLearnTest\PersonLearningTest\JsonHelper\bin\Debug\JsonHelper.exe.config
+D:\MyDemo\MyLearnTest\PersonLearningTest\JsonHelper\bin\Debug\JsonHelper.exe
+D:\MyDemo\MyLearnTest\PersonLearningTest\JsonHelper\bin\Debug\JsonHelper.pdb
+D:\MyDemo\MyLearnTest\PersonLearningTest\JsonHelper\bin\Debug\Newtonsoft.Json.dll
+D:\MyDemo\MyLearnTest\PersonLearningTest\JsonHelper\bin\Debug\Newtonsoft.Json.pdb
+D:\MyDemo\MyLearnTest\PersonLearningTest\JsonHelper\bin\Debug\Newtonsoft.Json.xml
+D:\MyDemo\MyLearnTest\PersonLearningTest\JsonHelper\obj\Debug\JsonHelper.csprojAssemblyReference.cache
+D:\MyDemo\MyLearnTest\PersonLearningTest\JsonHelper\obj\Debug\JsonHelper.Properties.Resources.resources
+D:\MyDemo\MyLearnTest\PersonLearningTest\JsonHelper\obj\Debug\JsonHelper.csproj.GenerateResource.cache
+D:\MyDemo\MyLearnTest\PersonLearningTest\JsonHelper\obj\Debug\JsonHelper.csproj.CoreCompileInputs.cache
+D:\MyDemo\MyLearnTest\PersonLearningTest\JsonHelper\obj\Debug\JsonHelper.csproj.CopyComplete
+D:\MyDemo\MyLearnTest\PersonLearningTest\JsonHelper\obj\Debug\JsonHelper.exe
+D:\MyDemo\MyLearnTest\PersonLearningTest\JsonHelper\obj\Debug\JsonHelper.pdb
+D:\MyDemo\MyLearnTest\PersonLearningTest\JsonHelper\obj\Debug\JsonHelper.MainForm.resources
+D:\MyDemo\MyLearnTest\PersonLearningTest\JsonHelper\obj\Debug\JsonHelper.AboutJsonViewer.resources
+D:\MyDemo\MyLearnTest\PersonLearningTest\JsonHelper\bin\Debug\JsonViewer.dll
+D:\MyDemo\MyLearnTest\PersonLearningTest\JsonHelper\bin\Debug\JsonViewer.pdb
